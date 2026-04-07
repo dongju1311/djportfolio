@@ -56,3 +56,23 @@
 .secondBtn:hover {
     background-color: rgba(43, 206, 106, 0.1);
 }
+@media (max-width: 768px) {
+    .section{
+        padding: 0 1rem;
+    }
+    .name{
+        font-size: 3.5rem;
+    }
+    .role{
+        font-size: 1.5rem;
+        margin-bottom: 1.5rem;
+    }
+    .btnGroup{
+        flex-direction: column;
+        width: 100%;
+        gap: 1rem;
+    }
+    .firstBtn, .secondBtn{
+        width: 100%;
+    }
+}

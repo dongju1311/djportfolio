@@ -30,3 +30,22 @@
 .iconItem:hover {
     color: #00d26a;
 }
+@media (max-width: 768px) {
+    .footer {
+        padding: 2rem 1.5rem;
+    }
+    .container {
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+    .iconList {
+        order: 1;
+        justify-content: center;
+        gap: 2rem;
+    }
+    .copyright {
+        order: 2;
+        font-size: 0.85rem;
+        text-align: center;
+    }
+}

@@ -44,3 +44,17 @@
 .item:hover{
     color: #00d26a;
 }
+@media (max-width: 768px) {
+    .header{
+        padding: 1rem 1.5rem;
+    }
+    .logo{
+        font-size: 1.3rem;
+    }
+    .list{
+        gap: 1rem;
+    }
+    .item, .itemHome{
+        font-size: 0.9rem;
+    }
+}
