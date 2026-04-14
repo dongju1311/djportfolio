@@ -19,7 +19,7 @@ const educations = [
         period: "2025. 06. ~ 2026. 01.",
         title: "K-Digital Training - 풀스택 개발자 과정",
         details: [
-            "React 및 Java 기반 풀스택 실무형 커리큘럼 6개월기간 수료",
+            "React 및 Java 기반 풀스택 실무형 커리큘럼 6개월과정 수료",
             "협업 툴(Git, Notion 등)을 활용한 팀 프로젝트 주도적 수행"
         ]
     },
