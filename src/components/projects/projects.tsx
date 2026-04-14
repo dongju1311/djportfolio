@@ -22,7 +22,7 @@ const projectData = [
         id: "bicycle-app",
         title: "Bicycle-app: 자전거 통합 플랫폼",
         category: "Team Project (5인)",
-        period: "2025.10 - 2026.12",
+        period: "2025.10 - 2025.12",
         role: "FullStack Developer",
         description: "자전거 판매, 대여 및 여행지 추천을 위한 플랫폼입니다. 상품 데이터 처리와 외부 API 연동을 통해 기능을 구현했습니다.",
         image: "/images/bicycle.jpg",
@@ -40,6 +40,23 @@ const projectData = [
             {
                 title: "RESTful API 설계를 통한 프론트-백 연동",
                 desc: "Spring Boot 서버를 이용하여 상품 리스트 필터링(로드, MTB, 하이브리드 등) 및 상세 페이지 데이터를 효율적으로 렌더링했습니다."
+            }
+        ]
+    },
+    {
+        id: "portfolio v1",
+        title: "portfolio: 포트폴리오 초기버전",
+        category: "portfolio",
+        period: "2026.01 - 2026.01",
+        role: "Frontend Developer",
+        description: "리액트비트를 이용한 포트폴리오 초기버전입니다.",
+        image: "/images/portfolio.jpg",
+        tech: ["React"],
+        link: "https://github.com/dongju1311/Portfolio",
+        tasks: [
+            {
+                title: "포트폴리오 초기버전",
+                desc: "Window Xp를 테마로 하여 만든 초기 포트폴리오입니다.."
             }
         ]
     }
