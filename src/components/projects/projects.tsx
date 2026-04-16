@@ -56,7 +56,7 @@ const projectData = [
         tasks: [
             {
                 title: "포트폴리오 초기버전",
-                desc: "Window Xp를 테마로 하여 만든 초기 포트폴리오입니다.."
+                desc: "Window Xp를 테마로 하여 만든 초기 포트폴리오입니다."
             }
         ]
     }
